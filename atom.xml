@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pkeji.github.io/Pkeji2020/</id>
-    <title>Gridea</title>
-    <updated>2020-03-17T16:47:05.371Z</updated>
+    <title>P科技</title>
+    <updated>2020-03-17T16:52:33.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pkeji.github.io/Pkeji2020/"/>
     <link rel="self" href="https://pkeji.github.io/Pkeji2020/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>与你分享好物。</subtitle>
     <logo>https://pkeji.github.io/Pkeji2020/images/avatar.png</logo>
     <icon>https://pkeji.github.io/Pkeji2020/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, P科技</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pkeji.github.io/Pkeji2020/post/hello-gridea/</id>
