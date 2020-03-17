@@ -79,6 +79,31 @@
                                    
                                     <div class="mdui-divider mdui-m-t-2 mdui-m-b-2"></div>
                                     
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '1502509041589c9aff9a',
+    clientSecret: '61563bac475039f63206ac863540e3bc4cee1f24',
+    repo: 'Pkeji',
+    owner: '',
+    admin: [''],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+          
+        
                                      <script src="https://pkeji.github.io/Pkeji2020//media/scripts/Valine.min.js"></script>
  <div class="comment"></div>
 
